@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+tokenizers
+accelerate
+trl
+matplotlib
+numpy
+jupyter
+ipywidgets
